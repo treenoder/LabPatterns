@@ -1,8 +1,7 @@
 # Editors
-.idea/
-/LB*/**/.idea/*
-.code/*
+**/.idea/*
+**/.code/*
 
 # Python
-.venv/*
+**/.venv/*
 
