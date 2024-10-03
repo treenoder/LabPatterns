@@ -5,19 +5,19 @@ design patterns and programming concepts.
 
 ## Lab Structure
 
-### LB1:
+### LB1: Creational Patterns
 
 - **Task1** (Python): Abstract Factory Pattern (Creational Pattern)
 - **Task2** (C#): Prototype Pattern (Creational Pattern)
 - **Task3** (Java): Abstract Factory Pattern (Creational Pattern)
 
-### LB2:
+### LB2: Behavioral Patterns (TODO)
 
 - **Task1** (Python): Decorator Pattern (Structural Pattern)
 - **Task2** (C#): Adapter Pattern (Structural Pattern)
 - **Task3** (Java): Iterator Pattern (Behavioral Pattern)
 
-### LB3:
+### LB3: Structural Patterns (TODO)
 
 - **Task1** (Python): Observer Pattern (Behavioral Pattern)
 - **Task2** (C#): Strategy Pattern (Behavioral Pattern)
